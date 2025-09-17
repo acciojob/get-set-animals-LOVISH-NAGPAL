@@ -7,7 +7,7 @@ class Animal {
 		return this._species
 	}
 	makeSound(){
-		return `${this_species} makes a sound`
+		return `${this._species} makes a sound`
 	}
 }
 
